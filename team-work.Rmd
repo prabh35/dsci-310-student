@@ -36,7 +36,8 @@ Use the following ratings:
 
 ## 0. Group number
 
-What Group number are you in?
+What Group number are you in? 
+-> Group 2
 
 ## 1. Preparation
 
@@ -48,10 +49,10 @@ What Group number are you in?
 
 | Group member name | Preparation rating |
 |-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
-
+| Prabhjot Singh    |        4           |
+| Chenyi Zao        |        3           |
+| Yelia Ye          |        4           |
+| Yunxuan Zhang     |        3           |         
 ## 2. Participation & communication
 
 - Articulates ideas effectively when speaking or writing
@@ -61,9 +62,10 @@ What Group number are you in?
 
 | Group member name | Participation & communication rating |
 |-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+| Prabhjot Singh    |        4                             |
+| Chenyi Zao        |        3                             |
+| Yelia Ye          |        4                             |
+| Yunxuan Zhang     |        3                             |   
 
 ## 3. Helps group excel
 
@@ -75,9 +77,10 @@ What Group number are you in?
 
 | Group member name | Helps group excel rating |
 |-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+| Prabhjot Singh    |        4                 |
+| Chenyi Zao        |        3                 |
+| Yelia Ye          |        4                 |
+| Yunxuan Zhang     |        3                 |   
 
 ## 4. Team player (cooperation)
 
@@ -89,9 +92,10 @@ What Group number are you in?
 
 | Group member name | Team player (cooperation) rating |
 |-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
+| Prabhjot Singh    |        4                         |
+| Chenyi Zao        |        4                         |
+| Yelia Ye          |        4                         |
+| Yunxuan Zhang     |        3                         | 
 
 Below,
 briefly describe the specific contributions each team member
@@ -105,6 +109,14 @@ comment on the following areas:
       That is, what sort of things did you do to contribute to the evolution of the project?
     - What were the roles of others in your group?
 - What went well and poorly throughout the team project experience?
+
+| Prabhjot Singh  - I found myself with Yelia Ye doing most of the communication and reminding the other group members about the deadlines and what was expected. We were able to divide the work per milestone for example, I did the data analysis portion.
+
+| Chenyi Zao - Chenyi did the assigned work well without any errors but I never saw them taking initiative or be the leader of the group.
+
+| Yelia Ye - Yelia was very good in communicating and reminding people of the deadlines. Her work was always up to the mark. They knew when to be the leader and when to listen.
+
+| Yunxuan Zhang - While they did the assigned work well, I found them to be very hard to communicate with at times as I would only see their message on the group chat on the day of the deadline. Moreover, In one instance, I saw them change a significant portion of my work with dat analysis portion without communicating with me. Although, I found their work impressive the decision to directly make the changes and not consult me was very disrespectful.
 
 ## Submission instructions
 
